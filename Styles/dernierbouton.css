@@ -7,6 +7,7 @@
     padding: 10px;
     font-size: large;
     background-position: center;
+    size: 250%;
 }
 .dernierbouton:hover {
     background-color: rgb(122, 249, 249);
