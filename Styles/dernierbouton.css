@@ -1,4 +1,4 @@
-.boutonmarchestp {
+.dernierbouton {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgb(149, 185, 216);
@@ -8,8 +8,7 @@
     font-size: large;
     background-position: center;
 }
-.boutonmarchestp:hover {
+.dernierbouton:hover {
     background-color: rgb(122, 249, 249);
     transition: 1s;
-
 }
