@@ -1,0 +1,14 @@
+.boutonmogus 
+{   text-align: center;
+     color: rgb(22, 21, 21); 
+     background-color: rgb(171, 197, 219);
+     border-radius: 7px black; margin: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    padding: 12px;
+    border: 20px black;
+}
+.boutonmogus:hover 
+{ background-color: rgb(122, 249, 249);
+    transition: 1s;
+}

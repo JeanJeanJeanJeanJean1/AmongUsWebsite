@@ -1,0 +1,14 @@
+.boutonmarchestp {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(149, 185, 216);
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    font-size: large;
+}
+.boutonmarchestp:hover {
+    background-color: rgb(122, 249, 249);
+    transition: 1s;
+
+}

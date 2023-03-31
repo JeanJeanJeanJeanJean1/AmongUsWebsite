@@ -1,0 +1,7 @@
+.banner {
+    background-image: url(../Images/Among\ US.jpg);
+    height: 80vh; 
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}

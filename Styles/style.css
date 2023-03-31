@@ -1,0 +1,13 @@
+@import "banner.css" ; 
+@import "button.css" ;
+@import "cards.css" ;
+@import "container.css" ;
+@import "footer.css" ;
+@import "boutonmarchestp.css" ;
+@import "big-card.css"
+h1 { text-align: center; color: aliceblue; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: bold; padding-top: 50px; }
+h2 { text-align: center; color: aliceblue; font-weight: 100; font-style: italic; height: 350px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; box-shadow: inset;}
+h3 {text-align: center; color: black; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}

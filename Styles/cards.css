@@ -1,0 +1,19 @@
+.card-white 
+{text-align: center;
+    color: black;
+     background-color:aliceblue; 
+    border-radius: 7px; 
+    margin-left: 450px; 
+    margin-right: 450px;
+    box-shadow: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.card-white img 
+{   width: 100%;
+    border-radius: 7px;
+    height: 300px;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
